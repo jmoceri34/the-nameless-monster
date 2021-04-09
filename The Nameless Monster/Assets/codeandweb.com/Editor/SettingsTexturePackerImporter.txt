@@ -1,0 +1,26 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Baby/Art/BabySpriteSheet.tpsheet
+- Assets/Butterfly/Art/ButterflySpriteSheet.tpsheet
+- Assets/Father/Art/FatherSpriteSheet.tpsheet
+- Assets/Forest/Art/ForestSpriteSheet.tpsheet
+- Assets/Monster/Art/MonsterSpriteSheet.tpsheet
+- Assets/Portal/Art/PortalSpriteSheet.tpsheet
+- Assets/SmallChild/Art/SmallChildSpriteSheet.tpsheet
+textureFileNames:
+- Assets\Baby\Art/BabySpriteSheet.png
+- Assets\Butterfly\Art/ButterflySpriteSheet.png
+- Assets\Father\Art/FatherSpriteSheet.png
+- Assets\Forest\Art/ForestSpriteSheet.png
+- Assets\Monster\Art/MonsterSpriteSheet.png
+- Assets\Portal\Art/PortalSpriteSheet.png
+- Assets\SmallChild\Art/SmallChildSpriteSheet.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 

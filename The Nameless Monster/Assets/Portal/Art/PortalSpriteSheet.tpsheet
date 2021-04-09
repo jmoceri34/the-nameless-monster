@@ -1,0 +1,25 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:166d572a6c37631f617d61dfbf9e6f12:d424f30f537a0d6b62990eda268a6237:1bfa7b7a307faf13ca8976f1a22aefdb$
+#
+:format=40000
+:texture=PortalSpriteSheet.png
+:size=512x512
+:pivotpoints=enabled
+
+Portal-Large-1;1;436;63;75;0.5;0
+Portal-Large-2;1;359;63;75;0.5;0
+Portal-Large-3;1;282;63;75;0.5;0
+Portal-Large-4;1;205;63;75;0.5;0
+Portal-Small-1;1;128;63;75;0.5;0
+Portal-Small-2;1;51;63;75;0.5;0
+Portal-Small-3;66;436;63;75;0.5;0
+Portal-Small-4;131;436;63;75;0.5;0
+Portal-SmallToLarge-1;1;128;63;75;0.5;0
+Portal-SmallToLarge-2;196;436;63;75;0.5;0
+Portal-SmallToLarge-3;261;436;63;75;0.5;0
+Portal-SmallToLarge-4;1;205;63;75;0.5;0

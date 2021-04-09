@@ -1,0 +1,16 @@
+﻿namespace #NAMESPACENAME# 
+{
+	using UnityEngine;
+
+	public class #ENTITYNAME#Controller : MonoBehaviour 
+	{
+
+		public #ENTITYNAME#Bll Bll;
+		
+		// Only update per entity
+		void Update()
+		{
+
+		}
+	}
+}

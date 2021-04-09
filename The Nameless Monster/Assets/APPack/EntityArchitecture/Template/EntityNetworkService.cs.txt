@@ -1,0 +1,22 @@
+namespace #NAMESPACENAME#
+{
+	using UnityEngine;
+	using UnityEngine.Networking;
+	using APPack;
+
+	public class #ENTITYNAME#NetworkService : MonoBehaviour, IEntity
+	{
+		// Create all related fields you need that are unrelated to the Model here
+		public NetworkIdentity #ENTITYNAME#NetworkIdentity;
+
+		public void OnAwake()
+		{
+
+		}
+
+		public void OnStart()
+		{
+
+		}
+	}
+}

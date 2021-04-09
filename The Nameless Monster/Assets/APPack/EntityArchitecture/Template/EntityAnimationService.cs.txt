@@ -1,0 +1,21 @@
+namespace #NAMESPACENAME# 
+{
+	using UnityEngine;
+	using APPack;
+
+	public class #ENTITYNAME#AnimationService : MonoBehaviour, IEntity
+	{
+		// Create all related fields you need that are unrelated to the Model here
+		public Animator #ENTITYNAME#Animator;
+
+		public void OnAwake()
+		{
+
+		}
+
+		public void OnStart()
+		{
+
+		}
+	}
+}

@@ -1,0 +1,53 @@
+namespace #NAMESPACENAME#
+{
+	using UnityEngine;
+	using APPack;
+
+	public class #ENTITYNAME#Bll : MonoBehaviour, IEntity
+	{
+		private GameEventListenerService ListenerService;
+		
+		public #ENTITYNAME#Model Model;
+		
+#ENTITYSERVICEFIELDS#
+		public void OnAwake()
+		{
+			ListenerService = FindObjectOfType<GameEventListenerService>(); // Game state should always contain one and only one
+			ListenerService.AddListener(GameEventType.OnGameStart, StartGameCallback);
+			ListenerService.AddListener(GameEventType.OnGameOver, EndGameCallback);
+		}
+
+		public void OnStart()
+		{
+
+		}
+		
+		// Only one of these per entity
+		void Awake ()
+		{
+			OnAwake();
+			Model.OnAwake();
+			ListenerService.OnAwake();
+#ENTITYONAWAKE#		
+		}
+
+		// Only one of these per entity
+		void Start ()
+		{
+			OnStart();
+			Model.OnStart();
+			ListenerService.OnStart();
+#ENTITYONSTART#			
+		}
+
+		private void EndGameCallback()
+		{
+
+		}
+
+		private void StartGameCallback()
+		{
+
+		}
+	}
+}

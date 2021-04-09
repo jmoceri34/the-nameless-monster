@@ -1,0 +1,42 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:db3fa1a750481a29eba5b334d4b59c43:3692de80c6f38ae46a3145fbc3ab7ad8:2a752debfe54a13311c3794c94751bca$
+#
+:format=40000
+:texture=MonsterSpriteSheet.png
+:size=1024x1024
+:pivotpoints=enabled
+
+Monster-Idle-1;1;891;93;132;0.5;0
+Monster-Idle-2;1;757;93;132;0.5;0
+Monster-Idle-3;1;623;93;132;0.5;0
+Monster-Idle-4;1;489;93;132;0.5;0
+Monster-Jump-Fall-5;1;355;93;132;0.5;0
+Monster-Jump-Fall-6;1;221;93;132;0.5;0
+Monster-Jump-Landing-7;1;87;93;132;0.5;0
+Monster-Jump-MidAir-4;96;891;93;132;0.5;0
+Monster-Jump-TakeOff-1;191;891;93;132;0.5;0
+Monster-Jump-TakeOff-2;286;891;93;132;0.5;0
+Monster-Jump-TakeOff-3;381;891;93;132;0.5;0
+Monster-Run-1;476;891;93;132;0.5;0
+Monster-Run-2;571;891;93;132;0.5;0
+Monster-Run-3;666;891;93;132;0.5;0
+Monster-Run-4;761;891;93;132;0.5;0
+Monster-Run-5;856;891;93;132;0.5;0
+Monster-Run-6;96;757;93;132;0.5;0
+Monster-Run-7;96;623;93;132;0.5;0
+Monster-Run-8;96;489;93;132;0.5;0
+Monster-WalkWithBaby-1;96;355;93;132;0.5;0
+Monster-WalkWithBaby-2;96;221;93;132;0.5;0
+Monster-WalkWithBaby-3;96;87;93;132;0.5;0
+Monster-WalkWithBaby-4;191;757;93;132;0.5;0
+Monster-WalkWithBaby-5;191;623;93;132;0.5;0
+Monster-WalkWithBaby-6;191;489;93;132;0.5;0
+Monster-WalkWithBaby-7;191;355;93;132;0.5;0
+Monster-WalkWithBaby-8;191;221;93;132;0.5;0
+Monster-WalkWithBaby-Idle;191;87;93;132;0.5;0
+MonsterHand;286;757;93;132;0.5;0

@@ -1,0 +1,27 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:aa5dd1c1b558f2905ce20ee31aaeaead:0a5a644e7b9ccad5e66a68ea2cb125df:afc3562122d33d38143fddbbe262230a$
+#
+:format=40000
+:texture=SmallChildSpriteSheet.png
+:size=512x512
+:pivotpoints=enabled
+
+SmallChild-Idle-1;1;436;63;75;0.5;0
+SmallChild-Idle-2;1;359;63;75;0.5;0
+SmallChild-Idle-3;1;282;63;75;0.5;0
+SmallChild-Idle-4;1;205;63;75;0.5;0
+SmallChild-Idle-5;1;128;63;75;0.5;0
+SmallChild-Run-1;1;51;63;75;0.5;0
+SmallChild-Run-2;66;436;63;75;0.5;0
+SmallChild-Run-3;131;436;63;75;0.5;0
+SmallChild-Run-4;196;436;63;75;0.5;0
+SmallChild-Run-5;261;436;63;75;0.5;0
+SmallChild-Run-6;326;436;63;75;0.5;0
+SmallChild-Run-7;391;436;63;75;0.5;0
+SmallChild-Run-8;66;359;63;75;0.5;0
+SmallChild;66;282;63;75;0.5;0
