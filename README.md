@@ -4,7 +4,7 @@
 
 You can play the game [here](https://jmoceri34.github.io/the-nameless-monster/).
 
-It also features a editor menu button that allows you to scaffold out files, called 'Entity Architecture'. You can access it from APPack -> Architecture -> Create Entity
+It also features an editor menu button that allows you to scaffold out files, called 'Entity Architecture'. You can access it from APPack -> Architecture -> Create Entity
 
 ![image](https://user-images.githubusercontent.com/7356219/115079513-23fdbc80-9eb6-11eb-8cc1-81b607796899.png)
 
